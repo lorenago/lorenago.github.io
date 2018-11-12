@@ -1,11 +1,17 @@
 {
   "name": "blog-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A simple blog app to practice react with redux.",
   "private": true,
+  "main": "index.js",
+  "author": "Lorena González",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "2.1.1",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
