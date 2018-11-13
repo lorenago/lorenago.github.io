@@ -1,3 +1,8 @@
+# Blog App
+This project was created to learn to use react + redux according with Udemy course "Modern React with Redux" thanks to Stephen Grinder(https://github.com/StephenGrider).
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
